@@ -1,2 +1,2 @@
-# predictivemaintenant
-Predictive maintenant using machine learning.
+# predictivemaintenance
+Predictive maintenance using machine learning.
